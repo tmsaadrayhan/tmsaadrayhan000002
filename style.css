@@ -1,0 +1,226 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.m{
+    box-shadow: 5px 5px 10px;
+    margin: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-align: center;
+    float: right;
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 100px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    font-weight:normal;
+
+}
+#c1{
+    margin-right: 50px;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    height: 100px;
+    font-weight: bold;
+}
+p{
+    font-size: 20px;
+}
+.c2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sh2{
+    color: #FF8367;
+}
+div{
+    width: 750px;
+    height: 600px;
+}
+img{
+    width: 700px;
+    height: 680px;
+}
+.h{
+    padding-top: 180px;
+}
+#d11{
+    float: left;
+}
+#d12{
+    float: left;
+}
+#d21{
+    float: left;
+    clear: both;
+}
+#d22{
+    margin-top: 400px;
+    float: left;
+}
+#hs2{
+    font-size:  72px;
+}
+#ht{
+    text-align: center;
+    font-size:  72px;
+}
+#hts{
+    color: #FF8367;
+}
+#c3{
+    background-color: #ededf5;
+    height: 800px;
+    padding-top: 130px;
+}
+.p{
+    width: 400px;
+    height: 560px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 6px 6px 40px;
+    margin: 60px 60px;
+}
+.pp{
+    margin-top: 20px;
+    width: 360px;
+    height: 220px;
+    border-radius: 10px;
+}
+.bh{
+    font-weight: bold;
+    font-size: 30px;
+}
+.ai{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bp{
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#l1{
+    color: white;
+    background-image: linear-gradient(0deg, #FF8063, #F46060);
+    padding: 20px 40px;
+    border-radius: 8px;
+    margin-top: 50px;
+    width: 75px;
+    height: 24px;
+    font-size: 20px;
+}
+#l2{
+    color: white;
+    background-image: url("Image/Untitled-1.png");
+    padding: 20px 40px;
+    padding-left: 70px;
+    border-radius: 8px;
+    margin-top: 50px;
+    width: 120px;
+    height: 24px;
+    font-size: 20px;
+    background-size: 730px;
+}
+#c4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    clear: both;
+    margin-top: 100px;
+}
+#bb{
+    background-image: url("Image/Group_33094_1.png");
+    background-size: 1000px;
+    width: 1000px;
+    color: rgb(255, 255, 255);
+    background-repeat: no-repeat;
+    height: 250px;
+}
+#bb1{
+    font-family: 'Bebas Neue', cursive;
+    float :left;
+    width: 680px;
+    font-size: 60px;
+    margin-top: 90px;
+    margin-left: 90px;
+    height: 150px;
+}
+#l3{
+    float: left;
+    color: white;
+    background-image: linear-gradient(0deg, #FF8063, #F46060);
+    padding: 26px 35px;
+    border-radius: 8px;
+    margin-top: 90px;
+    width: 90px;
+    height: 24px;
+    font-size: 20px;
+}
+.ta{
+    text-align: center;
+    font-size: 50px;
+    margin-top: -20px;
+}
+#c51{
+    font-family: 'Bebas Neue', cursive;
+    color: #696871;
+    font-size: 25px;
+    margin-top: 60px;
+}
+#c6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    padding-bottom: 200px;
+}
+.la{
+    height: 120px;
+    width: 120px;
+    margin: 30px 30px;
+}
+#c7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#c7s{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 90px;
+    color: #363958;
+    margin-top: 100px;
+    background-image: url("Image/Skills-250x250.png");
+    background-repeat: no-repeat;
+    width: 400px;
+    background-size: 110px;
+    height: 120PX;
+}
+.sk{
+    height: 150px;
+    width: 220px;
+    box-shadow:  5px 5px 20px rgb(49, 49, 49);
+    border-radius: 45px;
+    margin: 20px 15px;
+}
+.sks{
+    height: 150px;
+    width: 170px;
+    box-shadow:  5px 5px 20px rgb(49, 49, 49);
+    border-radius: 45px;
+    margin: 20px 15px;
+}
